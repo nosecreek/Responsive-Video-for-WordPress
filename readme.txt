@@ -10,7 +10,27 @@ Using a responsive WordPress theme? Make your videos responsive too! Just activa
 
 == Description ==
 
-This plugin takes advantage of WordPress' built in [oEmbed functionality](http://codex.wordpress.org/Embeds) to make it easy to insert responsive videos into your site or blog. Just copy the URL of the video you want to embed and paste it into the WordPress editor.
+This plugin takes advantage of WordPress' built in [oEmbed functionality](http://codex.wordpress.org/Embeds) to make it easy to insert responsive videos into your site or blog. Just copy the URL of the video you want to embed and paste it into the WordPress editor. This plugin will maintain the default aspect ratio of the video at any page size.
+
+This plugin has been tested as working with the following video sites:
+
+* YouTube
+
+* Vimeo
+
+* blip.tv
+
+* Flickr (videos)
+
+* DailyMotion
+
+* Hulu
+
+* WordPress.tv
+
+* FunnyOrDie.com (WordPress 3.0+)
+
+* Revision3
 
 View the source [on GitHub](https://github.com/nosecreek/Responsive-Video-for-WordPress).
 
